@@ -1,2 +1,2 @@
 # capcat
-a tool for packet capture
+A tool for packet capture.
